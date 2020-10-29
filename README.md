@@ -15,9 +15,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://protomangg.vercel.app/api/spotify)](https://open.spotify.com/user/poplipopatpotty)
+[![Spotify](https://novatorem-rho-eight.vercel.app/api/spotify)](https://open.spotify.com/user/poplipopatpotty)
 
-[<img src="https://now-playing-protomangg.vercel.app/api/spotify-playing" alt="ProtoManGG Spotify Playing" width="350" />](https://open.spotify.com/user/poplipopatpotty)
+[<img src="https://novatorem-rho-eight.vercel.app/api/spotify" alt="ProtoManGG Spotify Playing" width="350" />](https://open.spotify.com/user/poplipopatpotty)
 
 ### Connect with me:
 
