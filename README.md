@@ -17,8 +17,6 @@
 
 [![Spotify](https://novatorem-rho-eight.vercel.app/api/spotify)](https://open.spotify.com/user/poplipopatpotty)
 
-[<img src="https://novatorem-rho-eight.vercel.app/api/spotify" alt="ProtoManGG Spotify Playing" width="350" />](https://open.spotify.com/user/poplipopatpotty)
-
 ### Connect with me:
 
 [<img align="left" alt="Github Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Among Us main Masti with @GameItToday](https://www.youtube.com/watch?v=AmBkWhOvQo8)
 - [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
 <!-- YOUTUBE:END -->
