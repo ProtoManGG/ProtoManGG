@@ -1,8 +1,6 @@
 ### Hi there, I'm Pranav - aka [ProtoManGG][website] 👋
 
 [![Website](https://img.shields.io/website?label=ProtoManGG&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/ProtoManGG)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Studio_?color=1DA1f2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student, Gamer/YTber and a Self Taught Developer!
@@ -71,6 +69,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#7](https://github.com/iamSahdeep/minesweeper_flutter/pull/7) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
 2. 💪 Opened PR [#6](https://github.com/iamSahdeep/minesweeper_flutter/pull/6) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
 3. 💪 Opened PR [#4](https://github.com/iamSahdeep/minesweeper_flutter/pull/4) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
