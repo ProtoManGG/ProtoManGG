@@ -47,7 +47,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Among Us main Masti with @GameItToday](https://www.youtube.com/watch?v=AmBkWhOvQo8)
 - [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
 <!-- YOUTUBE:END -->
