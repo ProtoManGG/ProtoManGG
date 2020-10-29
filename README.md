@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=ProtoManGG&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/ProtoManGG)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Studio_?color=1DA1f2&logo=Twitter&style=for-the-badge)
+
 ## I'm a Student, Gamer/YTber and a Self Taught Developer!
 
 <!-- - 🔭 I am currently working on a Covid-19 related project: [Become A VS Code SuperHero!][course]! -->
@@ -47,6 +49,7 @@
 ➡️ [coming soon...]
 
 <!-- YOUTUBE:START -->
+
 - [Among Us main Masti with @GameItToday](https://www.youtube.com/watch?v=AmBkWhOvQo8)
 - [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
 <!-- YOUTUBE:END -->
@@ -68,12 +71,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
 </details>
@@ -81,7 +78,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ProtoManGG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ProtoManGG&show_icons=true&hide_border=true" />
+  <img align="left" alt="ProtoManGG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ProtoManGG&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
