@@ -50,7 +50,7 @@
 - [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
 <!-- YOUTUBE:END -->
 
-## ➡️ [more videos...][youtubey]
+➡️ [more videos...][youtube]
 
 ### 📕 Latest Blog Posts
 
