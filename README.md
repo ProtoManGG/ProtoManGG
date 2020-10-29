@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Student, and a Self Taught Developer!
+## I'm a Student, Gamer/YTber and a Self Taught Developer!
 
 <!-- - 🔭 I am currently working on a Covid-19 related project: [Become A VS Code SuperHero!][course]! -->
 
@@ -44,16 +44,10 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-
-<!-- - [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Clone GOOGLE with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU) -->
-<!-- YOUTUBE:END -->
-
 ➡️ [coming soon...]
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
