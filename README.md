@@ -17,7 +17,7 @@
 
 [![Spotify](https://protomangg.vercel.app/api/spotify)](https://open.spotify.com/user/poplipopatpotty)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-protomangg.vercel.app/api/spotify-playing" alt="ProtoManGG Spotify Playing" width="350" />](https://open.spotify.com/user/poplipopatpotty)
 
 ### Connect with me:
 
@@ -47,6 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Among Us main Masti with @GameItToday](https://www.youtube.com/watch?v=AmBkWhOvQo8)
 - [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
 <!-- YOUTUBE:END -->
