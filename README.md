@@ -1,7 +1,7 @@
 ### Hi there, I'm Pranav - aka [ProtoManGG][website] 👋
 
 [![Website](https://img.shields.io/website?label=ProtoManGG&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/ProtoManGG)
-![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Studio_?color=1DA1f2&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Studio_?color=1DA1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FProtoManGG&screen_name=ProtoManGG)
 
 ## I'm a Student, Gamer/YTber and a Self Taught Developer!
 
@@ -14,6 +14,8 @@
 - ⚡ Fun fact: I love to draw and play Keyboard.
 
 ### Spotify Playing 🎧
+
+[![Spotify](https://protomangg.vercel.app/api/spotify)](https://open.spotify.com/user/poplipopatpotty)
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -50,7 +52,7 @@
 - [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
 <!-- YOUTUBE:END -->
 
-## ➡️ [more videos...][youtube]
+## ➡️ [more videos...][youtubey]
 
 ### 📕 Latest Blog Posts
 
