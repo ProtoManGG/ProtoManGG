@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7](https://github.com/iamSahdeep/minesweeper_flutter/pull/7) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
-2. 💪 Opened PR [#6](https://github.com/iamSahdeep/minesweeper_flutter/pull/6) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
-3. 💪 Opened PR [#4](https://github.com/iamSahdeep/minesweeper_flutter/pull/4) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
-4. ❗️ Opened issue [#3](https://github.com/iamSahdeep/minesweeper_flutter/issues/3) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
-5. ❗️ Opened issue [#2](https://github.com/iamSahdeep/minesweeper_flutter/issues/2) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
+1. 💪 Opened PR [#2](https://github.com/Flutter-Buddies/Your-Destiny/pull/2) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
+2. 💪 Opened PR [#7](https://github.com/iamSahdeep/minesweeper_flutter/pull/7) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
+3. 💪 Opened PR [#6](https://github.com/iamSahdeep/minesweeper_flutter/pull/6) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
+4. 💪 Opened PR [#4](https://github.com/iamSahdeep/minesweeper_flutter/pull/4) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
+5. ❗️ Opened issue [#3](https://github.com/iamSahdeep/minesweeper_flutter/issues/3) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
 <!--END_SECTION:activity-->
 
 </details>
