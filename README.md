@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/alx-xlx/gdrive-clone/issues/1) in [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone)
-2. 💪 Opened PR [#32](https://github.com/Flutter-Buddies/Your-Destiny/pull/32) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
-3. 💪 Opened PR [#2](https://github.com/Flutter-Buddies/Your-Destiny/pull/2) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
-4. 💪 Opened PR [#7](https://github.com/iamSahdeep/minesweeper_flutter/pull/7) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
-5. 💪 Opened PR [#6](https://github.com/iamSahdeep/minesweeper_flutter/pull/6) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
+1. 💪 Opened PR [#24](https://github.com/Flutter-Buddies/Group10-Bored-Coders/pull/24) in [Flutter-Buddies/Group10-Bored-Coders](https://github.com/Flutter-Buddies/Group10-Bored-Coders)
+2. ❗️ Opened issue [#1](https://github.com/alx-xlx/gdrive-clone/issues/1) in [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone)
+3. 💪 Opened PR [#32](https://github.com/Flutter-Buddies/Your-Destiny/pull/32) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
+4. 💪 Opened PR [#2](https://github.com/Flutter-Buddies/Your-Destiny/pull/2) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
+5. 💪 Opened PR [#7](https://github.com/iamSahdeep/minesweeper_flutter/pull/7) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
 <!--END_SECTION:activity-->
 
 </details>
