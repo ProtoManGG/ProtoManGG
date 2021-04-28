@@ -10,7 +10,7 @@
 - 🔭 I am currently working on a Covid-19 related project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Keyboard.
 
 ### Spotify Playing 🎧
