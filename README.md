@@ -67,7 +67,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#24](https://github.com/Flutter-Buddies/Group10-Bored-Coders/pull/24) in [Flutter-Buddies/Group10-Bored-Coders](https://github.com/Flutter-Buddies/Group10-Bored-Coders)
+1. 🗣 Commented on [#44](https://github.com/kalismeras61/flutter_page_transition/issues/44) in [kalismeras61/flutter_page_transition](https://github.com/kalismeras61/flutter_page_transition)
 2. ❗️ Opened issue [#1](https://github.com/alx-xlx/gdrive-clone/issues/1) in [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone)
 3. 💪 Opened PR [#32](https://github.com/Flutter-Buddies/Your-Destiny/pull/32) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
 4. 💪 Opened PR [#2](https://github.com/Flutter-Buddies/Your-Destiny/pull/2) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
