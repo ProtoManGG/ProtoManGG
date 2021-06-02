@@ -67,9 +67,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#44](https://github.com/kalismeras61/flutter_page_transition/issues/44) in [kalismeras61/flutter_page_transition](https://github.com/kalismeras61/flutter_page_transition)
-2. ❗️ Opened issue [#1](https://github.com/alx-xlx/gdrive-clone/issues/1) in [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone)
-3. 💪 Opened PR [#32](https://github.com/Flutter-Buddies/Your-Destiny/pull/32) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
+1. 🎉 Merged PR [#1](https://github.com/mittalayush1430/static_website_flutter/pull/1) in [mittalayush1430/static_website_flutter](https://github.com/mittalayush1430/static_website_flutter)
+2. 💪 Opened PR [#1](https://github.com/mittalayush1430/static_website_flutter/pull/1) in [mittalayush1430/static_website_flutter](https://github.com/mittalayush1430/static_website_flutter)
+3. 🗣 Commented on [#44](https://github.com/kalismeras61/flutter_page_transition/issues/44) in [kalismeras61/flutter_page_transition](https://github.com/kalismeras61/flutter_page_transition)
 4. 💪 Opened PR [#2](https://github.com/Flutter-Buddies/Your-Destiny/pull/2) in [Flutter-Buddies/Your-Destiny](https://github.com/Flutter-Buddies/Your-Destiny)
 5. 💪 Opened PR [#7](https://github.com/iamSahdeep/minesweeper_flutter/pull/7) in [iamSahdeep/minesweeper_flutter](https://github.com/iamSahdeep/minesweeper_flutter)
 <!--END_SECTION:activity-->
