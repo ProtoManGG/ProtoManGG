@@ -42,15 +42,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Among Us main Masti with @GameItToday](https://www.youtube.com/watch?v=AmBkWhOvQo8)
-- [Duck Game main Masti with @GameItToday](https://www.youtube.com/watch?v=ro34lx-yQIY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
 ### 📕 Latest Blog Posts
 
 ➡️ [coming soon...]
@@ -85,7 +76,6 @@
 
 [website]: https://github.com/ProtoManGG
 [twitter]: https://twitter.com/Tech_Studio_
-[youtube]: https://www.youtube.com/channel/UCqzJnxH4Nv4bxs3RkG7ZGNg/
 [instagram]: https://www.instagram.com/tech_studio_007/
 [linkedin]: https://www.linkedin.com/in/pranavt36/
 
