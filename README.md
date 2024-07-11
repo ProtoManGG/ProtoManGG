@@ -13,10 +13,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Keyboard.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-rho-eight.vercel.app/api/spotify)](https://open.spotify.com/user/poplipopatpotty)
-
 ### Connect with me:
 
 [<img align="left" alt="Github Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
